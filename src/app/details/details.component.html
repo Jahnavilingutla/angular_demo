@@ -1,0 +1,32 @@
+
+
+<form [formGroup]="myForm" novalidate>
+    <fieldset style="margin-left:400px;margin-right:400px;background-color:lightblue;color: blue;border-radius: 10px;border-style:inset;border-color: brown;box-shadow: 10px 20px 5px black;">
+        <div class="form-group">
+            <label>User Name</label>
+            <input type="text" class="form-control" placeholder="Enter username" formControlName="UserName"
+                [ngClass]="{'is-invalid':UserName.errors && (UserName.touched||UserName.dirty),'is-valid':UserName.valid}">
+            <!--Error message for username-->
+            <span class="invalid-feedback">
+                <strong *ngIf="UserName.errors?.required">Name is Required</strong>
+                <strong *ngIf="UserName.errors?.pattern">Only Alphabets allowed(A-Z and a-z)</strong>
+                <strong *ngIf="UserName.errors?.minlength">Min length is 6 characters</strong>
+                <strong *ngIf="UserName.errors?.maxlength">Max length is 16 characters</strong>
+            </span>
+        </div>
+        
+        <div class="form-group">
+            <label>Password</label>
+            <input type="Password" class="form-control" placeholder="Enter Password" formControlName="Password"
+                [ngClass]="{'is-invalid':Password.errors && (Password.touched||Password.dirty),'is-valid':Password.valid}">
+            <!--Error message for username-->
+            <span class="invalid-feedback">
+                <strong *ngIf="Password.errors?.required">Password is Required</strong>
+                <strong *ngIf="Password.errors?.minlength">Min length is 6 characters</strong>
+            </span>
+        </div>
+       
+        <br>
+        <button type="submit" class="btn btn-primary" (click)="onSubmit()">SUBMIT</button> 
+    </fieldset>        
+</form>

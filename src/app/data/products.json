@@ -1,0 +1,39 @@
+[
+    {
+        "pname":"PLUM",
+        "pdescription":"Plum Green Tea Day & Night C-T-M Kit",
+        "price":500,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/c/3/c3e0d02plumx00000206.jpg"
+    },
+    {
+        "pname":"Biotique ",
+        "pdescription":"Biotique Honey Gel Soothe & Nourish Foaming Face Wash",
+        "price":600,
+        "img":"https://images-static.nykaa.com/media/catalog/product/8/9/8906009452616_9.jpg"
+    },
+    {
+        "pname":"Nykaa Clay",
+        "pdescription":"Nykaa Clay It Cool Spot-Corrector Clay Mask",
+        "price":450,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/8/9/8904245710507_1_1_1.jpg"
+    },
+    {
+        "pname":"Face Massager",
+        "pdescription":"MCaffeine Jade Roller",
+        "price":350,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/2/3/2306229mcaff00000078_1new.jpg"
+    },
+    {
+        "pname":"Aloe Vera Gel",
+        "pdescription":"Wishcare Pure & Natural Aloe Vera Gel - Enriched With Vitamin E",
+        "price":650,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/1/8/1835cc2nykwis0000057__1__update.jpg"
+    },
+    {
+        "pname":"nivea",
+        "pdescription":"NIVEA Women Face Wash for Dry Skin, Milk Delights Honey",
+        "price":550,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/1/3/132ada28904256005227_1.jpg"
+    }
+
+]
