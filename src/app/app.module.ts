@@ -15,6 +15,11 @@ import { Cards1Component } from './cards1/cards1.component';
 import { CounterComponent } from './counter/counter.component';
 import { CounterchildComponent } from './counter/counterchild/counterchild.component';
 import { LipsticksComponent } from './lipsticks/lipsticks.component';
+import { AdsComponent } from './ads/ads.component';
+import { HaircComponent } from './hairc/hairc.component';
+import { Hairc1Component } from './hairc/hairc1/hairc1.component';
+
+
 
 
 
@@ -31,6 +36,10 @@ import { LipsticksComponent } from './lipsticks/lipsticks.component';
     CounterComponent,
     CounterchildComponent,
     LipsticksComponent,
+    AdsComponent,
+    HaircComponent,
+    Hairc1Component,
+  
    
   ],
   imports: [

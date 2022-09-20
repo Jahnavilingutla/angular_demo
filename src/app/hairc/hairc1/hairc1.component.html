@@ -1,10 +1,9 @@
-<marquee>SKIN CARE UP TO 50% OFF</marquee>
-<div *ngFor="let prod of product" style="border:none;margin-top:30px;">
-<div class="row">
+<div *ngFor="let w of washingmach" style="border:none;margin-top:30px;">
+    <div class="row">
         <!--1st column-->
         <div class="col col-lg-3">
             <!--Property Binding-->
-            <img [src]="prod.img" class="prodimg">
+            <img [src]="w.img" class="prodimg">
             </div>
         <!--2nd column-->
         <div class="card col-lg-6" style="border:none;">
@@ -14,14 +13,14 @@
                     <div class="col-lg-9" style="margin-top:20px;">
 
                         <div [style.color]="'blue'">
-                            COMPANY: {{ prod.pname | uppercase}}
+                            COMPANY: {{ w.pname | uppercase}}
                             <span (click)="showproductDetailsToggle()" [ngClass]="toggleContent()"></span>
                         </div>
                         <hr>
                         <div [hidden]="productDetail">
-                            <b>DETAILS:</b>  {{prod.pdescription}}
+                            <b>DETAILS:</b>  {{w.pdescription}}
                             <br>
-                            <b>PRICE:</b>  {{ prod.price | currency:'INR'}}
+                            <b>PRICE:</b>  {{ w.price | currency:'INR'}}
                             
                         </div>
                        
@@ -39,3 +38,4 @@
         
     </div>
 </div>
+

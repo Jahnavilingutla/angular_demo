@@ -1,0 +1,38 @@
+[
+    {
+        "pname":"Hair Gummies",
+        "pdescription":"Be Bodywise 5000 mcg Biotin Gummies for Healthy Hair With Added Zinc & Multivitamins",
+        "price":5000,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/e/0/e051118BEBOD00000001_1.jpg"
+    },
+    {
+        "pname":"Tresemme ",
+        "pdescription":"Tresemme Keratin Smooth Deep Smoothing Mask",
+        "price":1899,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/3/3/336dc5a8710908693809_1.jpg"
+    },
+    {
+        "pname":"Wella",
+        "pdescription":"Wella Professionals INVIGO Damaged Hair Rescue",
+        "price":2199,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/n/y/nybndwp000040.jpg"
+    },
+    {
+        "pname":"plum oil",
+        "pdescription":"Plum Onion And Bhringraj Hair Growth Oil",
+        "price":2129,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/1/e/1ee69f7PLNN0100HRL6073_1.jpg"
+    },
+    {
+        "pname":"Streax Hair Serum",
+        "pdescription":"Streax Professional Vitariche Gloss Hair Serum",
+        "price":2599,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/1/7/17627eb8901247577022.jpg"
+    },
+    {
+        "pname":"Anomaly Shine Conditioner ",
+        "pdescription":"Anomaly Shine Conditioner for Nourishment & Shine with Murumuru Butter & Jojoba oil",
+        "price":4349,
+        "img":"https://images-static.nykaa.com/media/catalog/product/tr:w-200,h-200,cm-pad_resize/7/4/74bd43eANOAA00000004_1.jpg"
+    }
+]
