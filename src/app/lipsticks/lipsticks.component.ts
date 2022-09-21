@@ -9,7 +9,10 @@ export class LipsticksComponent implements OnInit {
 
   constructor() { }
 
+  
+  myrating= 5;
   ngOnInit(): void {
+    
   }
   lp=[{
     

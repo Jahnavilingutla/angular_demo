@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
+
 import { ReactiveFormsModule } from '@angular/forms';
 import { FormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
@@ -18,6 +19,8 @@ import { LipsticksComponent } from './lipsticks/lipsticks.component';
 import { AdsComponent } from './ads/ads.component';
 import { HaircComponent } from './hairc/hairc.component';
 import { Hairc1Component } from './hairc/hairc1/hairc1.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { ContactComponent } from './contact/contact.component';
 
 
 
@@ -39,6 +42,8 @@ import { Hairc1Component } from './hairc/hairc1/hairc1.component';
     AdsComponent,
     HaircComponent,
     Hairc1Component,
+    ContactComponent,
+ 
   
    
   ],
@@ -47,6 +52,7 @@ import { Hairc1Component } from './hairc/hairc1/hairc1.component';
     AppRoutingModule,
     FormsModule,
     ReactiveFormsModule,
+    NgbModule,
    
   ],
   providers: [],
