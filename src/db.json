@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "pname": "kajal",
+      "pdescription": "Kay Beauty Waterproof 24 Hour Kajal - Spade - Black",
+      "price": "1000",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/2/b2deca28904245700829_rev1.jpg"
+    },
+    {
+      "id": 2,
+      "pname": "lip gloss",
+      "pdescription": "Lime Crime Wet Cherry Lip Gloss - Naked Cherry",
+      "price": 3500,
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/0/5060332329502_1.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "lip stick",
+      "pdescription": "Maybelline New York Color Sensational Ultimattes Lipstick",
+      "price": 1500,
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/d/1da741bRENEE00000023_1.jpg"
+    },
+    {
+      "id": 4,
+      "pname": "compact",
+      "pdescription": "SUGAR POP Longwear Compact",
+      "price": 3500,
+      "img": "https://adn-static1.nykaa.com/media/categoryInfo/image_in_list/12_62635d8b12c8e_glossymakeupisofficiallyalloverinstagramagain-andwe_rehereforitdt_1_.jpg"
+    },
+    {
+      "id": 5,
+      "pname": "MCaffeine Exfoliating Coffee",
+      "pdescription": "Face Scrub with Walnut & Vitamin E for Fresh & Glowing Skin - Removes Tan & Blackheads",
+      "price": 1000,
+      "img": "https://images-static.nykaa.com/media/catalog/product/a/c/acf721cNYKMCF0000004_1.jpg"
+    },
+    {
+      "id": 6,
+      "pname": "Herbs Shea Lip Balm",
+      "pdescription": "pink shade",
+      "price": 18990,
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/n/y/nyjusthrb0005new.jpg"
+    },
+    {
+      "id": 7,
+      "pname": "Biotique Bio Kelp",
+      "pdescription": "shampoo",
+      "price": 11990,
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/d/0d5c0fb8904317300278_1.jpg"
+    },
+    {
+      "id": 8,
+      "pname": "Butter London Lumimatte",
+      "pdescription": "creame",
+      "price": 21290,
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/4/b4fc70e811161032386_1.jpg"
+    },
+    {
+      "id": 9,
+      "pname": "Tresemme Keratin Smooth Hair Serum",
+      "pdescription": "Hair serum",
+      "price": 2599,
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/0/30cb3d88901030871252_1.jpg"
+    },
+    {
+      "id": 10,
+      "pname": "SugarBearHair Gummies For Healthy Hair",
+      "pdescription": "suppliments",
+      "price": 4349,
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/a/caac01e635797982880_1.jpg"
+    },
+    {
+      "id": 11,
+      "pname": null,
+      "pdescription": null,
+      "price": null,
+      "img": null
+    }
+  ],
+  "users": [
+    {
+      "username": "john@gmail.com",
+      "useremail": "jahnavi@gmail.com",
+      "password": "John@123",
+      "mobile": "",
+      "id": 1
+    },
+    {
+      "username": "Admin",
+      "useremail": "admin@gmail.com",
+      "password": "admin@123",
+      "mobile": "9898989898",
+      "id": 3
+    },
+    {
+      "username": "Jancy",
+      "useremail": "jancy@gmail.com",
+      "password": "jancy123",
+      "mobile": "",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "pname": "KURTA",
+      "pdescription": "W BRAND",
+      "price": 1000,
+      "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/5/tr:w-550,/95a6dec22AUWS17917-118509_1.jpg?rnd=20200526195200",
+      "quantity": 10,
+      "id": 1
+    }
+  ],
+  "Admin": [
+    {
+      "username": "Admin",
+      "useremail": "admin@gmail.com",
+      "password": "admin@123",
+      "mobile": "9898989898",
+      "id": 3
+    }
+  ]
+}

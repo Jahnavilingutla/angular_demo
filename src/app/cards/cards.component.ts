@@ -12,46 +12,46 @@ export class CardsComponent implements OnInit {
   ProductDetails = [
     {
       
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/c99a6c86-2231-4fbd-a430-70bf5811987d.jpg",
+      "image":"https://images-static.nykaa.com/uploads/3d68ad04-3910-4544-8710-fe99321c32c2.jpg?tr=w-480,cm-pad_resize",
       
     },
     {
      
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/63d009e0-dd30-4b66-825b-a92c10701fe9.jpg",
+      "image":"https://images-static.nykaa.com/uploads/e2d165b0-f615-4bcc-b88f-4202e424474a.jpg?tr=w-480,cm-pad_resize",
     }, 
     {
       
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/c7a230e9-4e73-43f2-8062-756d6788f25a.jpg",
+      "image":"https://images-static.nykaa.com/uploads/db22e1b4-6a14-48a5-8cf0-a636dacc587e.jpg?tr=w-480,cm-pad_resize",
       
     },
     {
       
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/4350d4c0-959e-46ed-ba81-d699ac650830.jpg",
+      "image":"https://images-static.nykaa.com/uploads/4d3db3f9-78c4-485c-a32b-759800175406.jpg?tr=w-480,cm-pad_resize",
       
     },
     {
       
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/e9a7ce9d-51ed-4079-a318-8a8dd6997d69.jpg",
+      "image":"https://images-static.nykaa.com/uploads/0c2fb895-6e36-4132-8e9e-5c1a4160fe11.jpg?tr=w-480,cm-pad_resize",
      
     },
     {
       
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/7be08cf5-9273-47d2-b7d1-9eeecf0a2c2d.jpg",
+      "image":"https://images-static.nykaa.com/uploads/3b81fe16-d007-495a-aac6-1d5b1ad52db1.jpg?tr=w-480,cm-pad_resize",
      
     },
     {
       
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/a9f806d0-a24d-4370-9eec-0b81c9c4a712.jpg",
+      "image":"https://images-static.nykaa.com/uploads/ed53aefe-bbcd-46fc-af62-82edabf4372f.jpg?tr=w-480,cm-pad_resize",
       
     },
     {
       
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/54f0eac9-e9d6-4f44-ba9f-c615fa3717b3.jpg",
+      "image":"https://images-static.nykaa.com/uploads/28bd6640-1802-4582-9247-29cd15ee2bbb.png?tr=w-480,cm-pad_resize",
       
     },
     {
    
-      "image":"https://images-static.nykaa.com/tr:w-640,c-at_max/uploads/4217f799-4bf0-4cf7-adb3-77ec0df94c39.jpg",
+      "image":"https://images-static.nykaa.com/uploads/96ae9f4f-d5e0-48d4-a108-7b70b67a74bb.jpg?tr=w-480,cm-pad_resize",
       
     }
 

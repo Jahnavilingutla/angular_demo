@@ -1,6 +1,7 @@
 import { Component, OnInit,Input } from '@angular/core';
 import * as productdetails from '../data/products.json';
 
+
 @Component({
   selector: 'app-cards1',
   templateUrl: './cards1.component.html',
@@ -9,6 +10,7 @@ import * as productdetails from '../data/products.json';
 export class Cards1Component implements OnInit {
 
   constructor() { }
+ 
 
   ngOnInit(): void {
   }

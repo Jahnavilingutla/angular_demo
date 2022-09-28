@@ -1,0 +1,39 @@
+[
+    {
+        "pid":1,
+        "pname":"KURTA",
+        "pdescription":"W BRAND",
+        "price":1000,
+        "img":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/5/tr:w-550,/95a6dec22AUWS17917-118509_1.jpg?rnd=20200526195200"
+    },
+    {
+        "pid":2,
+        "pname":"Sharara set",
+        "pdescription":"Gilsha Cotton Sharara Set",
+        "price":1000,
+        "img":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/b/tr:w-550,/7b50597ACHGGJUL11_1.jpg?rnd=20200526195200"
+    },
+    {
+        "pid":3,
+        "pname":"jumpsuit",
+        "pdescription":"Blue floral",
+        "price":4500,
+        "img":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/m/c/tr:w-550,/mcaw19d04-22-215-02_1.jpg?rnd=20200526195200"
+    },
+    {
+        "pid":4,
+        "pname":"KURTA",
+        "pdescription":"arelia brand",
+        "price":3500,
+        "img":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/a/tr:w-550,/da44931NYKFF_LSDY0012_1.jpg?rnd=20200526195200"
+    },
+    {
+        "pid":5,
+        "pname":"Titan Watch",
+        "pdescription":"Titan watch for girls",
+        "price":1500,
+        "img":"https://static-01.daraz.com.np/p/483739b555784acbee3874e5d9f8ffb0.jpg"
+    }
+    
+
+]
