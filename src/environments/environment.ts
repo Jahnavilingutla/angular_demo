@@ -5,7 +5,8 @@
 export const environment = {
   production: true,
   postsapi:"https://heroku-json-server-fakenyk.herokuapp.com/posts",
-  userapi:"https://heroku-json-server-fakenyk.herokuapp.com/users",
+ // userapi:"https://heroku-json-server-fakenyk.herokuapp.com/users",
+ userapi:"https://localhost:7181/api/Registrations",
   cartapi:"https://heroku-json-server-fakenyk.herokuapp.com/cart",
   adminapi:"https://heroku-json-server-fakenyk.herokuapp.com/Admin"
 };
